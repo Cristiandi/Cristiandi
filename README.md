@@ -1,3 +1,4 @@
+
 <!--
 **Cristiandi/Cristiandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,6 +39,7 @@ Here are some ideas to get you started:
 ### How to reach me 📫
 - Send me a message on [Linkedin](https://www.linkedin.com/in/cristian-david-ippolito/).
 - Send me an email to cristiandavidippolito@gmail.com.
+<hr>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?&username=cristiandi&theme=dark&hide=contribs&show_icons=true])
 <br>
