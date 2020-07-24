@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hey what's up guys? :wave: Welcome! :tada:
 **I'm passionate code developer interested for learning new good things. :rocket:**
 
-### I’m currently working with :computer: :muscle:
+### I’m currently working with :computer:
  - [TypeScript](https://www.typescriptlang.org/)
  - [Node.js](https://nodejs.org/en/)
  - [GraphQL](https://graphql.org/)
