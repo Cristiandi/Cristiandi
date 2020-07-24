@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![my profile header](https://media-exp1.licdn.com/dms/image/C4E16AQFsJlihrNNYIA/profile-displaybackgroundimage-shrink_350_1400/0?e=1600905600&v=beta&t=Zo1vZrxlJCdv3F7geynibJXM5vD79ZnEoAyuxy_oEog)
 
 ## Hey what's up guys? :wave: Welcome! :tada:
-**I'm passionate code developer interested for learning new good things.** 
+**I'm passionate code developer interested for learning new good things. :rocket:**
 
 ### I’m currently working with :computer: :muscle:
  - [TypeScript](https://www.typescriptlang.org/)
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  - [PostgreSQL](https://www.postgresql.org/)
  - [MySQL](https://www.mysql.com/)
 
-### I want to work more with :dart: :rocket:
+### I want to work more with :dart:
 - [Rust](https://www.rust-lang.org/)
 - [Svelte](https://svelte.dev/)
 - [Hasura](https://hasura.io/)
