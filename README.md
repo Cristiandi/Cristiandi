@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 - [Svelte](https://svelte.dev/)
 - [Hasura](https://hasura.io/)
 
+### I’m looking to collaborate on :green_heart:
+- Health tech initiatives. :hospital:
+- Other tech initiatives where the objective is help others. :smile:
+
+### How to reach me 📫
+- Send me a message on [Linkedin](https://www.linkedin.com/in/cristian-david-ippolito/).
+- Send me an email to cristiandavidippolito@gmail.com.
+
 ![My github stats](https://github-readme-stats.vercel.app/api?&username=cristiandi&theme=dark&hide=contribs&show_icons=true])
 <br>
 [![Visits Badge](https://badges.pufler.dev/visits/cristiandi/Cristiandi)](https://github.com/Cristiandi)
