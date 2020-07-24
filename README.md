@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hey what's up guys? :wave: Welcome! :tada:
 **I'm passionate code developer interested for learning new good things.** 
 
-### I'm currently working with:
+### I’m currently working with :computer: :muscle:
  - [TypeScript](https://www.typescriptlang.org/)
  - [Node.js](https://nodejs.org/en/)
  - [GraphQL](https://graphql.org/)
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  - [PostgreSQL](https://www.postgresql.org/)
  - [MySQL](https://www.mysql.com/)
 
-### I want to work more with:
+### I want to work more with :dart: :rocket:
 - [Rust](https://www.rust-lang.org/)
 - [Svelte](https://svelte.dev/)
 - [Hasura](https://hasura.io/)
