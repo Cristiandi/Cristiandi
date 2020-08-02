@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - [Rust](https://www.rust-lang.org/)
 - [Svelte](https://svelte.dev/)
 - [Hasura](https://hasura.io/)
+- [Deno](https://deno.land/)
 
 ### I’m looking to collaborate on :green_heart:
 - Health tech initiatives. :hospital:
