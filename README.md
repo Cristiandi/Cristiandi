@@ -22,14 +22,13 @@ Here are some ideas to get you started:
  - [TypeScript](https://www.typescriptlang.org/)
  - [Node.js](https://nodejs.org/en/)
  - [GraphQL](https://graphql.org/)
- - [React](https://reactjs.org/)
+ - [Svelte](https://svelte.dev/)
  - [Vue.js](https://vuejs.org/)
  - [PostgreSQL](https://www.postgresql.org/)
  - [MySQL](https://www.mysql.com/)
 
 ### I want to work more with :dart:
 - [Rust](https://www.rust-lang.org/)
-- [Svelte](https://svelte.dev/)
 - [Hasura](https://hasura.io/)
 - [Deno](https://deno.land/)
 
