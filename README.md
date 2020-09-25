@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 ![My github stats](https://github-readme-stats.vercel.app/api?&username=cristiandi&theme=dark&hide=contribs&show_icons=true])
 <br>
-![Visits Badge](https://badges.pufler.dev/visits/cristiandi/Cristiandi)](https://github.com/Cristiandi)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cristiandi.Cristiandi)
