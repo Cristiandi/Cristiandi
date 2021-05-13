@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![my profile header](https://media-exp1.licdn.com/dms/image/C4E16AQFsJlihrNNYIA/profile-displaybackgroundimage-shrink_350_1400/0/1591458094482?e=1620259200&v=beta&t=rgm2ry-FIhkfzWAoBmlbC8-CCcVsxO-BHslaN83uOHI)
+![my profile header](https://media-exp1.licdn.com/dms/image/C4E16AQFsJlihrNNYIA/profile-displaybackgroundimage-shrink_350_1400/0/1591458094482?e=1626307200&v=beta&t=uqHkSsxDDuVVrLjPNM2GSRe-uRnI-OBJwbiYdRRIjM4)
 
 ## Hey what's up guys? :wave: Welcome! :tada:
 **I'm passionate code developer interested for learning new good things. :rocket:**
