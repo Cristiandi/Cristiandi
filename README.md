@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### I want to work more with :dart:
 - [Rust](https://www.rust-lang.org/)
 - [Hasura](https://hasura.io/)
-- [Deno](https://deno.land/)
+- [Go](https://go.dev/)
 
 ### I’m looking to collaborate on :green_heart:
 - Health tech initiatives. :hospital:
