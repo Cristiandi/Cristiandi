@@ -19,17 +19,18 @@ Here are some ideas to get you started:
 **I'm passionate code developer interested for learning new good things. :rocket:**
 
 ### I’m currently working with :computer:
+ - [PostgreSQL](https://www.postgresql.org/)
+ - [MySQL](https://www.mysql.com/)
+ - [Redis](https://redis.io/)
+ - [Kafka](https://kafka.apache.org/)
+ - [RabbitMQ](https://www.rabbitmq.com/)
  - [TypeScript](https://www.typescriptlang.org/)
  - [Node.js](https://nodejs.org/en/)
  - [GraphQL](https://graphql.org/)
- - [Svelte](https://svelte.dev/)
- - [Vue.js](https://vuejs.org/)
- - [PostgreSQL](https://www.postgresql.org/)
- - [MySQL](https://www.mysql.com/)
+ - [React](https://react.dev/)
 
 ### I want to work more with :dart:
 - [Rust](https://www.rust-lang.org/)
-- [Hasura](https://hasura.io/)
 - [Go](https://go.dev/)
 
 ### I’m looking to collaborate on :green_heart:
